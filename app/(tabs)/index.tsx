@@ -273,7 +273,7 @@ const styles = StyleSheet.create({
     padding: 15,
   },
   H1: {
-    fontSize: 48,
+    fontSize: 46,
     color: "#543608",
     fontWeight: "bold",
     textAlign: "left",
